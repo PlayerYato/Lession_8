@@ -1,0 +1,1 @@
+{"uuid":"109ad45b-5eaf-4034-8ce1-c8a8dcd91bd2","name":"PetDelete.setup","children":["06d6e6e2-5c88-4eed-a41f-3d7c78d98160"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1730318690681,"stop":1730318691044}],"afters":[],"start":1730318690680,"stop":1730318691045}
